@@ -102,9 +102,7 @@ export default async function Home() {
 
         {/* Example navigation links */}
         <div className="mt-6">
-          <Link href="http://localhost:3001/Home" className="text-blue-500 hover:underline">
-            Home
-          </Link>{" "}
+          <Link href="http://localhost:3001/Home" className="text-blue-500 hover:underline">Home</Link>{" "}
           |{" "}
           <Link href="http://localhost:3001/Shop" className="text-blue-500 hover:underline">
             Shop
